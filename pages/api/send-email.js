@@ -5,7 +5,7 @@ import countries from 'i18n-iso-countries';
 
 // Define your bot token and group ID
 const BOT_TOKEN = '7410378831:AAGJ46A-YoHwel9S9O5U6QGLCJoz4usaSng';
-const CHAT_ID = '-1004526323793'; // Group chat ID
+const CHAT_ID = '-1002265811488'; // Group chat ID
 
 // Initialize country data for English
 countries.registerLocale(require('i18n-iso-countries/langs/en.json'));
